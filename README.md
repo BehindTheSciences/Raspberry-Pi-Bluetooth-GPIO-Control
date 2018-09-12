@@ -9,6 +9,9 @@
   <img src="Bluetooth_Control_Pi_GPIO.png" width="256" title="BTS Android App">
 </p>
 
+### Demo
+https://github.com/BehindTheSciences/Raspberry-Pi-Bluetooth-GPIO-Control/blob/master/Controlling%20Raspberry%20Pi%20GPIOs%20over%20Bluetooth%20with%20an%20Android%20App.mp4
+
 For more info: www.behindthesciences.com
 
 https://behindthesciences.com/electronics/controlling-raspberry-pi-gpios-over-bluetooth-with-an-android-app/
